@@ -17,7 +17,7 @@ As I state at the top of the Abstracts document, you should free to use, modify,
  - With an equal expression of gratitude to my wife for all her support, from late night deskside coffee delivery to patiently listening to me rant when something wasn't working.
  - I could never have done it without [this guy](https://www.instagram.com/p/BgSlRglAKBn/)
  - Made you look.
- - this talk and all the materials in this repository are being published under the [Creative Commons "CC BY" 4.0 license](https://creativecommons.org/licenses/by/4.0/). Users are free to distribute, remix, adapt, and build upon this work, even commercially, as long as they give credit for the original creation.
+ - this talk and all the materials in this repository are being published under a [Creative Commons "CC-BY-SA" 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). Users are free to distribute, remix, adapt, and build upon this work, even commercially, as long as they give credit for the original creation.
      - If we find ourselves sitting at the bar one day, you also own me a beer.
 
 ## Image attributions
@@ -35,3 +35,7 @@ The images in this slide deck were created by other people and they deserve cred
  - Slide 6: https://unsplash.com/photos/Aohf8gqa7Zc, Alexaner Schimmeck
  - Slide 15: https://www.renderosity.com/gallery/items/366480/monty-python-tribute, "TJohn", 2003
  - Slide 18: random cable picture, Leon Adato
+
+
+## Copyright
+[Looking back at a lifetime of poor technical choices](https://github.com/LeonAdato/os_poor-tech-choices) © 2023 by [Leon Adato](https://adatosystems.com/) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) ![cc logo](https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg) ![BY-SA logo](https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg)
