@@ -38,4 +38,4 @@ The images in this slide deck were created by other people and they deserve cred
 
 
 ## Copyright
-[Looking back at a lifetime of poor technical choices](https://github.com/LeonAdato/os_poor-tech-choices) © 2023 by [Leon Adato](https://adatosystems.com/) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) ![cc logo](https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg) ![BY-SA logo](https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg)
+[Looking back at a lifetime of poor technical choices](https://github.com/LeonAdato/os_poor-tech-choices) © 2023 by [Leon Adato](https://adatosystems.com/) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) <img src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" alt="cc logo" width="20"/>  <img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" alt="BY-SA logo" width="20"/>
