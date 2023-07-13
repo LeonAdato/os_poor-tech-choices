@@ -12,6 +12,8 @@ What should become obvious fairly quickly is that the slides I've provided are j
 
 As I state at the top of the Abstracts document, you should free to use, modify, or ignore all, some, or none of what I've provided, as your personal style and tastes dictate. 
 
+That said, If you want to get a feel for how a fleshed out version of this talk might go, you can find the full slides I used at [DevOpsDays Birmingham](https://devopsdays.org/events/2023-birmingham-uk/welcome/) here: [https://github.com/LeonAdato/Talks-n-Slides/tree/main/DoDBrum2023](https://github.com/LeonAdato/Talks-n-Slides/tree/main/DoDBrum2023) and you can see my delivery of this talk during [DevOpsDays Denver](https://devopsdays.org/events/2023-denver/welcome/) here: [https://www.youtube.com/watch?v=TPzrdHNsvGE&list=PL3xK3UeH8dybSKLkbS8SXqkLIrJgYWVEY&index=9](https://www.youtube.com/watch?v=TPzrdHNsvGE&list=PL3xK3UeH8dybSKLkbS8SXqkLIrJgYWVEY&index=9)
+
 ## Caveates, Callouts, and Kudos
  - With haKarat haTov to Ribono Shel Olam for giving me the sechel to learn and keep growing throughout the 3+ decades of my career in IT.
  - With an equal expression of gratitude to my wife for all her support, from late night deskside coffee delivery to patiently listening to me rant when something wasn't working.
