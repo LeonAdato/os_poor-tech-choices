@@ -8,7 +8,7 @@ Which is why I've decided to take the bones of this talk and make it open source
 ## Usage
 I've provided a PDF version just for viewing, plus a PPTX and ODP version that should at least get you started importing it into your slide tool of choice.
 
-What should become obvious fairly quickly is that the slides I've provided are just the skeleton of the talk. It's up to each user to fill in with the details of their "poor choice", the lesson(s) they learned, and how it ultimately turned out to be not such a bad choice after all.
+What should become obvious fairly quickly is that the slides I've provided are just the skeleton of the talk. It's up to each user to fill in with the details of their "poor choice", the lesson(s) they learned, and how it ultimately turned out to be not such a poor choice after all.
 
 As I state at the top of the Abstracts document, you should free to use, modify, or ignore all, some, or none of what I've provided, as your personal style and tastes dictate. 
 
@@ -20,7 +20,7 @@ That said, If you want to get a feel for how a fleshed out version of this talk 
  - I could never have done it without [this guy](https://www.instagram.com/p/BgSlRglAKBn/)
  - Made you look.
  - this talk and all the materials in this repository are being published under a [Creative Commons "CC-BY-SA" 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). Users are free to distribute, remix, adapt, and build upon this work, even commercially, as long as they give credit for the original creation.
-     - If we find ourselves sitting at the bar one day, you also own me a beer.
+     - If we find ourselves sitting at the bar one day, you also owe me a beer.
 
 ## Image attributions
 The images in this slide deck were created by other people and they deserve credit for their work as well. Those images are as follows:
