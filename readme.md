@@ -1,4 +1,4 @@
-# README for the Open Source version of the "Looking Back at a Lifetime of Poor Technical Choices" conference talk.
+# Open Source Conference Talk: "Looking Back at a Lifetime of Poor Technical Choices".
 
 ## Description
 After delivering this talk in front of a couple of audiences, it has become abundantly clear that not only do LOTS of people have similar stories, EVERYONE could probably speak to this topic! Moreover, if you lined up any number of people to give this talk, each one would be completely unique and utterly compelling.
